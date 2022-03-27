@@ -39,7 +39,7 @@ public void CalcularImc(View v){
         resultado.setText("obseidade grau2 severa :  IMC :  "+imc.shortValue());
     }else if(imc > 40){
         resultado.setText("obesidade 3 mórbida :  IMC :  "+imc.shortValue());
-
+//modigi
     }
 }
 
